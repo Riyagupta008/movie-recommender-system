@@ -1,0 +1,7 @@
+I have taken dataset from kaggle.
+Till now I had just imported two libraries numpy and pandas. I have installed them by using pip install numpy and pip install pandas.
+After that I read dataset by using read_csv() function. By using movies.head() and credits.head() I can see the whole dataset that i had used in this. 
+Than I merged credits and movies by taking title as the key.
+That all I had done till now.
+ 
+ Thank You
