@@ -5,5 +5,5 @@ Than I merged credits and movies by taking title as the key. Now we want only th
 title,overview,cast and crew.After that I found the missing data using isnull() function. After that we imported ast. 
 AST stands for Abstract Syntax Tree, which is a potent tool of the Python programming language. It allows us to interact with the Python code itself and can modify it.
 ast has ast.literal_eval(text) function in it. We used that function for modification. Then we applied convert function we made using ast to genres, keyword, cast.
-That all I had done till now.
+So I have completed my backend part. Now I only have to link my frontend and backend and my project will be completed.
  Thank You
